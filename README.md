@@ -1,1 +1,1 @@
-Conducted data wrangling and a bit of data modeling with Power BI to created a dashboard based on sales data. Data was obtained from the following [link](https://drive.google.com/drive/folders/1uIvu9IV42xtffHigw6NLuV11PfsMvCem).
+Conducted data wrangling and a bit of data modeling with Power BI to create an interactive dashboard based on a fictious company's sales data. Data was obtained from the following [link](https://drive.google.com/drive/folders/1uIvu9IV42xtffHigw6NLuV11PfsMvCem).
