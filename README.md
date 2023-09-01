@@ -1,1 +1,1 @@
-A simple dashboard created with Power BI based on sales data. Data was obtained from the following [link](https://drive.google.com/drive/folders/1uIvu9IV42xtffHigw6NLuV11PfsMvCem).
+Conducted data wrangling and a bit of data model with Power BI to created a dashboard based on sales data. Data was obtained from the following [link](https://drive.google.com/drive/folders/1uIvu9IV42xtffHigw6NLuV11PfsMvCem).
